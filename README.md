@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Pradeep sagar Boya
 
-<!--
-**pradeepboya41-creator/pradeepboya41-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aspiring Software Developer  
+💻 Interested in Web Development and AI projects  
+🚀 Currently building real-world projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Git & GitHub
+- MongoDB
+
+---
+
+## 📂 Projects
+
+### 🌱 AgroNest
+A web platform for managing agricultural resources and fertilizer recommendations.
+
+🔗 Project Repository  
+https://github.com/pradeepboya41-creator/Agronest
+
+---
+
+## 📚 Currently Learning
+- Full Stack Web Development
+- Backend APIs
+- Database integration
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/pradeepboya41-creator
+
+---
+
+⭐ Always learning and building new things!
